@@ -191,5 +191,5 @@ int main ()
 }
 
 
-//Para compilar:   gcc HellsBurgers.c -o ejecutable -lpthread
+//Para compilar:   gcc subwayArgento.c -o ejecutable -lpthread
 //Para ejecutar:   ./ejecutable
